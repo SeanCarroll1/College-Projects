@@ -1,3 +1,3 @@
 # College-Projects
 
-List of some projects completed throughout college
+List of projects completed throughout college in various languages.
